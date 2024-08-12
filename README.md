@@ -1,3 +1,5 @@
+<center><h1><strong>PYTHON DEEP PLAN</strong></h1></center>
+
 Comprehensive list of concepts to understand in Python, categorized from _Absolute Beginner_ to _Professional Level_, including _Data Structures and Algorithms_:
 
 ### **Absolute Beginner**
